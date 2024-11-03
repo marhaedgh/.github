@@ -12,4 +12,4 @@
 <br/>
 
 ## 시스템 아키텍쳐
-![image](https://github.com/user-attachments/assets/67a66d02-ec52-475d-9dc5-4f1323f65dd9)
+![image](https://github.com/user-attachments/assets/51c15e3f-dea5-481a-9cce-0117de26df6f)
