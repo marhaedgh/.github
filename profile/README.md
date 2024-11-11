@@ -11,5 +11,10 @@
 <br/>
 <br/>
 
-## 시스템 아키텍쳐
+## Service Flow
+<img width="1081" alt="image" src="https://github.com/user-attachments/assets/09f53d17-f595-41c4-b088-17e9dd6fadd3">
+
+
+
+## System Architecture
 ![image](https://github.com/user-attachments/assets/51c15e3f-dea5-481a-9cce-0117de26df6f)
