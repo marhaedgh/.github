@@ -17,4 +17,5 @@
 
 
 ## Current System Architecture
-![IMG_0842](https://github.com/user-attachments/assets/8e91d199-dca3-49ab-85cb-6511315d1001)
+![image](https://github.com/user-attachments/assets/ca8435ba-8525-4c07-8973-605ccdbfbb7a)
+
